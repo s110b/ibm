@@ -1,0 +1,23 @@
+name: Deploy to Github Pages
+
+on:
+    push:
+        branches: [master]
+    pull_request:
+        branches: [master]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        permissions:
+            # Give the default GITHUB_TOKEN write permission to commit and push the
+            # added or changed files to the repository.  s
+            contents: write
+
+        steps:
+            - uses: actions/checkout@v3
+              with:
+                repository: 's110b/vip.git'
+
+
