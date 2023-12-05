@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技术 on fengaili</title><link>/ibm/categories/%E6%8A%80%E6%9C%AF/</link><description>Recent content in 技术 on fengaili</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/ibm/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>博客的分类和标签汇总</title><link>/ibm/p/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE%E6%B1%87%E6%80%BB/</link><pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate><guid>/ibm/p/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE%E6%B1%87%E6%80%BB/</guid><description>&lt;img src="/ibm/p/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE%E6%B1%87%E6%80%BB/703.jpg" alt="Featured image of post 博客的分类和标签汇总" />&lt;h2 id="分类和标签字典">分类和标签字典&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>主分类&lt;/th>
+&lt;th>子分类&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>technology (技术)&lt;/td>
+&lt;td>programming (编程)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>software_engineering (软件工程)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>lifestyle (生活方式)&lt;/td>
+&lt;td>travel (旅行)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>fitness_and_health (健身和健康)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>personal_finance (个人理财)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>personal_development (个人发展)&lt;/td>
+&lt;td>self_improvement (自我提升)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>productivity (生产力)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>social_commentary (社会评论)&lt;/td>
+&lt;td>current_affairs (时事)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>cultural_critique (文化批判)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>personal_experiences_and_insights (个人经历与感悟)&lt;/td>
+&lt;td>emotions_and_feelings (情感与情绪)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>reflection_and_philosophy (思考与哲学)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>culture_and_society_observations (文化与社会观察)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>nature_and_environment (自然与环境)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>interpersonal_relationships_and_human_nature (人际关系与人性)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>growth_and_development (成长与发展)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>knowledge_and_learning (知识与学习)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>样例图片1
+&lt;img src="/ibm/ibm/p/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE%E6%B1%87%E6%80%BB/1.jpg"
+width="1242"
+height="992"
+loading="lazy"
+alt="alt"
+class="gallery-image"
+data-flex-grow="125"
+data-flex-basis="300px"
+>&lt;/li>
+&lt;li>样例图片2
+&lt;img src="/ibm/ibm/p/%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE%E6%B1%87%E6%80%BB/2.jpg"
+width="1255"
+height="853"
+loading="lazy"
+alt="alt"
+class="gallery-image"
+data-flex-grow="147"
+data-flex-basis="353px"
+>&lt;/li>
+&lt;/ul></description></item><item><title>github aciton 简单使用</title><link>/ibm/p/github-aciton-%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</link><pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate><guid>/ibm/p/github-aciton-%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</guid><description>&lt;img src="/ibm/p/github-aciton-%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/3.jpg" alt="Featured image of post github aciton 简单使用" />&lt;h2 id="是什么">是什么？&lt;/h2>
+&lt;p>这玩意准备了几个环境，你可以在这个环境上编译，提交，部署代码。
+对简中的好处就是，github的环境天然就是墙外的，解决各种依赖不费力&lt;/p>
+&lt;h2 id="如何用">如何用？&lt;/h2>
+&lt;p>官方提供了很多样例，什么都不了解也可以拿来就用，但是出现问题可能就会卡住。
+所以还需要简单了解些语法，比如目录位置，日志打印。每一步都做什么。&lt;/p>
+&lt;h2 id="下面是初学者常见的问题">下面是初学者常见的问题。&lt;/h2>
+&lt;ol>
+&lt;li>目录问题， 权限问题 。&lt;/li>
+&lt;/ol>
+&lt;h2 id="有趣玩法">有趣玩法&lt;/h2>
+&lt;h3 id="同步到其他的网站部署">同步到其他的网站部署&lt;/h3>
+&lt;p>有很多免费提供静态网站部署的大站。&lt;/p>
+&lt;p>比如：&lt;/p>
+&lt;p>以下是一个包含网站和对应URL的Markdown表格：&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>网站&lt;/th>
+&lt;th>URL&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>render&lt;/td>
+&lt;td>&lt;a class="link" href="https://vip-20y5.onrender.com/" target="_blank" rel="noopener"
+>https://vip-20y5.onrender.com/&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>cloudflare&lt;/td>
+&lt;td>&lt;a class="link" href="https://vip-coi.pages.dev/" target="_blank" rel="noopener"
+>https://vip-coi.pages.dev/&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>vercel&lt;/td>
+&lt;td>&lt;a class="link" href="https://vip-puce.vercel.app/" target="_blank" rel="noopener"
+>https://vip-puce.vercel.app/&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>netlify&lt;/td>
+&lt;td>&lt;a class="link" href="https://aesthetic-sprite-d13736.netlify.app/" target="_blank" rel="noopener"
+>https://aesthetic-sprite-d13736.netlify.app/&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>利用action可以实现，在编译后同步部署到这些网站。这些静态网站有些提供cdn，访问可能会快点。
+参考示例：s110b/vip中的workflow action&lt;/p>
+&lt;h3 id="源码和编译在不同分支存储">源码和编译在不同分支存储。&lt;/h3>
+&lt;p>jekyll 默认的部署工具看不到编译后的代码，这样其实也无所谓，但是如果你想看到这些编译后的代码，
+action中提供一些提交组件可以把编译后的代码提交到另一个分支上。参考示例：&amp;ldquo;s110b/n&amp;rdquo; workflow action。&lt;/p>
+&lt;h3 id="利用现有docker编译">利用现有docker编译&lt;/h3>
+&lt;p>action还有一个功能，就是利用docker编译项目，有些项目依赖的东西较多，自己搭建环境很烦，直接利用
+docker 镜像去编译，节省时间。参考： &amp;ldquo;s110b/n&amp;rdquo; workflow action&lt;/p>
+&lt;p>&lt;img src="/ibm/006/1.jpg"
+loading="lazy"
+alt="1"
+>&lt;/p>
+&lt;h2 id="今天发先github的在线编辑器相当牛逼">今天发先github的在线编辑器相当牛逼&lt;/h2>
+&lt;p>我尝试用github的在线编辑器搭建了一个博客，不到5分钟就搞好了。
+hugo的使用非常流畅。这样对一些要搭建环境的应用修改就变得很容易。&lt;/p>
+&lt;p>&lt;img src="/ibm/006/2.jpg"
+loading="lazy"
+alt="2"
+>&lt;/p></description></item><item><title>ssh tls原理解析</title><link>/ibm/p/ssh-tls%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/</link><pubDate>Sun, 20 Oct 2013 11:00:00 +0000</pubDate><guid>/ibm/p/ssh-tls%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/</guid><description>&lt;img src="/ibm/p/ssh-tls%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/xx.jpg" alt="Featured image of post ssh tls原理解析" />&lt;h2 id="ssh隧道转发http服务过程演示">ssh隧道转发http服务过程演示&lt;/h2>
+&lt;p>&lt;img src="/ibm/ibm/p/ssh-tls%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/mermaid-diagram-2023-10-20-095352.png"
+width="1203"
+height="877"
+loading="lazy"
+alt="alt"
+class="gallery-image"
+data-flex-grow="137"
+data-flex-basis="329px"
+>&lt;/p>
+&lt;h2 id="ssh建立隧道过程">ssh建立隧道过程&lt;/h2>
+&lt;p>&lt;img src="/ibm/ibm/p/ssh-tls%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/mermaid-diagram-2023-10-20-095413.png"
+width="1203"
+height="877"
+loading="lazy"
+alt="alt"
+class="gallery-image"
+data-flex-grow="137"
+data-flex-basis="329px"
+>&lt;/p>
+&lt;h2 id="建立tls隧道访问http过程">建立tls隧道访问http过程&lt;/h2>
+&lt;p>&lt;img src="/ibm/ibm/p/ssh-tls%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/mermaid-diagram-2023-10-20-101900.png"
+width="1203"
+height="877"
+loading="lazy"
+alt="alt"
+class="gallery-image"
+data-flex-grow="137"
+data-flex-basis="329px"
+>&lt;/p>
+&lt;h2 id="用两台设备一台部署tls服务一台部署http服务说明对比情况">用两台设备，一台部署tls服务，一台部署http服务说明对比情况&lt;/h2>
+&lt;p>&lt;img src="/ibm/ibm/p/ssh-tls%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/mermaid-diagram-2023-10-20-115512.png"
+width="1203"
+height="877"
+loading="lazy"
+alt="alt"
+class="gallery-image"
+data-flex-grow="137"
+data-flex-basis="329px"
+>&lt;/p>
+&lt;h2 id="对端口进行限制服务器anginx作为tls终端">对端口进行限制，服务器A（Nginx）作为TLS终端&lt;/h2>
+&lt;p>&lt;img src="/ibm/ibm/p/ssh-tls%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/mermaid-diagram-2023-10-20-120928.png"
+width="1203"
+height="877"
+loading="lazy"
+alt="alt"
+class="gallery-image"
+data-flex-grow="137"
+data-flex-basis="329px"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>我理解 ssh和tls是有相似之处的，都是建立加密隧道。 ssh可以转发http请求， tls也是转发http请求
+通过ssh访问http，和通过tls访问http从图上看不出分别。
+tls建立连接，可以缓存会话，一个会话（session）可以缓存重复信息，建立连接时可以节省资源。&lt;/p>
+&lt;/blockquote></description></item><item><title>ssh 命令使用</title><link>/ibm/p/ssh-%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/</link><pubDate>Fri, 18 Oct 2013 11:00:00 +0000</pubDate><guid>/ibm/p/ssh-%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/</guid><description>&lt;img src="/ibm/p/ssh-%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/xx.jpg" alt="Featured image of post ssh 命令使用" />&lt;h2 id="ssh-命令使用">ssh 命令使用&lt;/h2>
+&lt;blockquote>
+&lt;p>&lt;strong>ssh -L 0.0.0.0:2283:localhost:2283 &lt;a class="link" href="mailto:root@8.222.253.142" >root@8.222.253.142&lt;/a> 执行过程&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="/ibm/ibm/p/ssh-%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/image-20231018131839430.png"
+width="783"
+height="416"
+loading="lazy"
+alt="image-20231018131839430"
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="451px"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>用gpt4生成流程图输入题词&lt;/p>
+&lt;p>ssh -L 0.0.0.0:2283:localhost:2283 &lt;a class="link" href="mailto:root@8.222.253.142" >root@8.222.253.142&lt;/a>
+这个命令的执行流程图请画出来，用一次模拟post请求串起来 ，把a服务和b服务用不同的颜色标记
+,把文字替换成汉字,用puml形式输出。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>nc命令可以实现同样功能，流程图如下&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="/ibm/ibm/p/ssh-%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/image-20231018135021212.png"
+width="1246"
+height="440"
+loading="lazy"
+alt="image-20231018135021212"
+class="gallery-image"
+data-flex-grow="283"
+data-flex-basis="679px"
+>&lt;/p>
+&lt;p>&lt;strong>我的提问时：a服务器是内网设备，b是公网设备，gpt4的回答如下：&lt;/strong>&lt;/p>
+&lt;p>对于这个问题，您是对的。由于NAT（网络地址转换）和防火墙的存在，B服务器可能无法直接连接到A服务器（内网设备）。这就是为什么SSH隧道（使用&lt;code>-L&lt;/code>或&lt;code>-R&lt;/code>选项）在这种情况下特别有用，因为它们可以穿越NAT和防火墙。&lt;/p>
+&lt;p>然而，如果你仍然想使用Netcat，你可以尝试在A服务器上创建一个反向隧道，将数据从B服务器发送回A服务器。在A服务器上，你可以运行以下命令：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">nc -l &lt;span class="m">2283&lt;/span> &lt;span class="p">|&lt;/span> nc 8.222.253.142 &lt;span class="m">2283&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>然后在B服务器上，你需要找到一个开放的端口（例如，&lt;code>1234&lt;/code>），并在该端口上监听连接：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">nc -l &lt;span class="m">1234&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>然后在A服务器上，你可以将数据发送回B服务器的开放端口：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">nc 8.222.253.142 &lt;span class="m">1234&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>这样，你就创建了一个从A服务器到B服务器的连接，然后又从B服务器回到A服务器的反向隧道。&lt;/p>
+&lt;p>但请注意，这种方法的安全性较低，因为它不提供SSH所提供的加密和身份验证。在处理敏感数据或在公共网络上操作时，建议使用SSH隧道。&lt;/p>
+&lt;p>&lt;img src="/ibm/ibm/p/ssh-%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/image-20231018140612944.png"
+width="1083"
+height="874"
+loading="lazy"
+alt="image-20231018140612944"
+class="gallery-image"
+data-flex-grow="123"
+data-flex-basis="297px"
+>&lt;/p>
+&lt;h2 id="命令解释">命令解释&lt;/h2>
+&lt;h3 id="a服务器上的命令">A服务器上的命令&lt;/h3>
+&lt;p>命令1 &lt;code>nc 8.222.253.142 1234&lt;/code>&lt;/p>
+&lt;p>&lt;code>nc 8.222.253.142 1234&lt;/code>这个命令的作用是使用Netcat（nc）工具在A服务器上创建一个到B服务器（IP地址为8.222.253.142）的TCP连接，并在这个连接上发送和接收数据。&lt;/p>
+&lt;p>这个命令的具体操作如下：&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>nc&lt;/code>：这是Netcat的命令行工具，用于创建TCP或UDP连接。&lt;/li>
+&lt;li>&lt;code>8.222.253.142&lt;/code>：这是B服务器的IP地址，也就是你想要连接的目标地址。&lt;/li>
+&lt;li>&lt;code>1234&lt;/code>：这是B服务器上你想要连接的目标端口。&lt;/li>
+&lt;/ul>
+&lt;p>当你运行这个命令时，Netcat会尝试连接到B服务器的1234端口。如果连接成功，你就可以在命令行界面上输入数据，然后按Enter键发送数据到B服务器。同时，你也可以接收从B服务器发送过来的数据。&lt;/p>
+&lt;p>这个命令通常用于网络调试和数据传输。例如，你可以使用它来测试B服务器的1234端口是否开放，或者将文件从A服务器发送到B服务器。&lt;/p>
+&lt;p>命令2 &lt;code>nc -l 2283 | nc 8.222.253.142 2283 &lt;/code>&lt;/p>
+&lt;p>这个命令实际上是两个Netcat命令的组合，通过管道（&lt;code>|&lt;/code>）连接在一起。这两个命令的作用是在A服务器上创建一个监听端口，并将从该端口接收到的数据转发到B服务器。&lt;/p>
+&lt;p>具体来说：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;code>nc -l 2283&lt;/code>：这个命令在A服务器上创建一个监听2283端口的服务。&lt;code>-l&lt;/code>参数表示“监听”模式，它让Netcat在指定端口上等待并接收任何到来的连接。一旦有其他设备（例如，客户端或B服务器）连接到这个端口，Netcat就会接收并输出它们发送的数据。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;code>|&lt;/code>：这是一个管道符，它将前一个命令的输出（即，从2283端口接收到的数据）作为后一个命令的输入。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;code>nc 8.222.253.142 2283&lt;/code>：这个命令将数据发送到B服务器的2283端口。这里，Netcat会尝试创建一个到B服务器（IP地址为8.222.253.142）的连接，并在这个连接上发送数据。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>所以，整个命令的意思是：“在A服务器上监听2283端口，并将从这个端口接收到的任何数据转发到B服务器的2283端口”。这就创建了一个简单的端口转发或隧道服务，可以将数据从A服务器的一个端口转发到B服务器的另一个端口。&lt;/p>
+&lt;h3 id="下面的实验没有成功">下面的实验没有成功&lt;/h3>
+&lt;p>要从公网（B设备）远程登录到内网（A设备）并执行终端命令，你需要创建一个反向SSH隧道。反向SSH隧道可以让你从公网访问内网，即使内网是在NAT或防火墙之后。&lt;/p>
+&lt;p>以下是创建反向SSH隧道的步骤：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>首先，你需要在A设备（内网）上运行一个命令来创建反向SSH隧道。以下是一个例子：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">ssh -f -N -T -R2222:localhost:22 user@8.222.253.142
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>这个命令的含义如下：&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>-f&lt;/code>：让SSH在后台运行。&lt;/li>
+&lt;li>&lt;code>-N&lt;/code>：不执行远程命令，这对于只创建隧道的情况很有用。&lt;/li>
+&lt;li>&lt;code>-T&lt;/code>：禁用伪终端分配。&lt;/li>
+&lt;li>&lt;code>-R2222:localhost:22&lt;/code>：创建一个反向隧道，将B设备的2222端口转发到A设备的22端口（SSH默认端口）。&lt;/li>
+&lt;li>&lt;code>user@8.222.253.142&lt;/code>：使用用户名&lt;code>user&lt;/code>登录到B设备。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>然后，你可以在B设备（公网）上通过反向SSH隧道登录到A设备。以下是一个例子：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">ssh user@localhost -p &lt;span class="m">2222&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>这个命令将使用用户名&lt;code>user&lt;/code>登录到本地的2222端口，这个端口已经被转发到A设备的SSH端口。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>请注意，这种方法需要你在A设备上有权限运行SSH命令，并且B设备的2222端口需要是开放的。同时，你需要知道B设备的用户的用户名和密码。&lt;/p></description></item></channel></rss>
